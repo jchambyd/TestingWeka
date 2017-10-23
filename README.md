@@ -1,5 +1,4 @@
-# Fast Incremental Gaussian Mixture Network
-
+# Weka Testing
 This code implements in Java a test for compare accuracy of classifiers implemented in Weka.
 
 ## Getting Started
