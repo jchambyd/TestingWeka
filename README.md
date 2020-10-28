@@ -10,3 +10,5 @@ This code implements in Java a test for compare accuracy of classifiers implemen
 
 ## Authors
 * **Jorge C. Chamby** - *Initial work* - [jchambyd](https://github.com/jchambyd)
+
+nueva linea
