@@ -9,4 +9,4 @@ This code implements in Java a test for compare accuracy of classifiers implemen
 * Weka 3.6.7+
 
 ## Authors
-* **Jorge C. Chamby-Diaz** - *Initial work* - [jchambyd](https://github.com/jchambyd)
+* **Jorge C. Chamby** - *Initial work* - [jchambyd](https://github.com/jchambyd)
